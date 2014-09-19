@@ -1,0 +1,2 @@
+mdm-basepack-spec
+=================
